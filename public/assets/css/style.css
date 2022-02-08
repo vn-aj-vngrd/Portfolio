@@ -297,7 +297,7 @@ section {
   z-index: 2;
 }
 section.section-show {
-  top: 100px;
+  top: 90px;
   bottom: auto;
   opacity: 1;
   padding-bottom: 45px;
@@ -311,7 +311,7 @@ section .container {
     top: 120px;
   }
   section.section-show {
-    top: 80px;
+    top: 67px;
   }
 }
 
