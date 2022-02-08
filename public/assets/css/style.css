@@ -1011,10 +1011,11 @@ section .container {
   bottom: 0;
   padding: 15px;
   text-align: right;
-  font-size: 13px;
+  font-size: 15px;
   color: #fff;
   z-index: 999999;
 }
+
 @media (max-width: 992px) {
   .credits {
     text-align: center;
@@ -1023,9 +1024,9 @@ section .container {
   }
 }
 .credits a {
-  color: #42A5F5;
+  color: #fff;
   transition: 0.3s;
 }
 .credits a:hover {
-  color: #fff;
+  color: #42A5F5;
 }
